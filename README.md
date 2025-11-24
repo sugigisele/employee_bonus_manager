@@ -1,6 +1,11 @@
-Employee Bonus Manager (PL/SQL Project)
-Overview
-Employee Bonus Manager is a PL/SQL project that demonstrates the use of Collections, Records, GOTO statements, and Transaction Control through a realistic business scenario.
+#Employee Bonus Manager (PL/SQL Project)
+
+
+#Overview
+
+
+
+#Employee Bonus Manager is a PL/SQL project that demonstrates the use of Collections, Records, GOTO statements, and Transaction Control through a realistic business scenario.
 The project simulates how a company might calculate and manage employee bonuses while handling missing data and database interactions safely.
 
 It is designed as a stored procedure that can be compiled and executed in Oracle SQL Developer.
